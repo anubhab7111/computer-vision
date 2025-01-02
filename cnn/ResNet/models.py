@@ -1,3 +1,6 @@
+import torch
+import torch.nn as nn
+
 """
 Implementation of the ResNet models.
 """
