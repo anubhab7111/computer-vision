@@ -1,2 +1,4 @@
 data
 .ipynb_checkpoints
+transformer/Vision-Transformer/vit_cifar/data
+transformer/Vision-Transformer/vit_cifar/checkpoints
